@@ -2,7 +2,7 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 
 ## Products Gallery
 
-A simple Next.js application that fetches and displays products from the Fake Store API. Each product has its own details page via dynamic routing. Tailwind CSS is used for styling and responsiveness.
+A simple Next.js application that fetches and displays products from the Fake Store API. Each product has its own details page . Material ui is used for styling and responsiveness.
 
 ## Features
 - Product List: Displays product image, name, price, and a short description.
