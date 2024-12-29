@@ -6,5 +6,5 @@ A simple Next.js application that fetches and displays products from the Fake St
 
 ## Features
 - Product List: Displays product image, name, price, and a short description.
-- Product Details: Shows full description, category, and enlarged image.
+- Product Details: Shows title, full description, category, price and image.
 - Responsive Design: Fully responsive layout with Material Ui.
